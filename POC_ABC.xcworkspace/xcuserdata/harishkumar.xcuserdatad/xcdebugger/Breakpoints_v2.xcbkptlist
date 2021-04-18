@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D84D0D7F-B4CF-4904-9473-1CFE1EFCF9F5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03934117-D4C0-45A7-AD1D-E7A671AF89CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "getCountryList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF4D8552-13C3-4437-B9FF-6A204CB22766"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "getCountryList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "926CD786-321B-4676-B823-E6942C7C469E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "getStateList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD3336F9-AEF2-4586-8816-A17FF4DF8023"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "getCityList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD3336F9-AEF2-4586-8816-A17FF4DF8023 - a5419a3681f50343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;POC_ABC.JSONDATE&lt;POC_ABC.City&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in POC_ABC.ViewController.(getCityList in _6E94093D24A24A7A140335E3E94FB119)() -&gt; ()"
+                  moduleName = "POC_ABC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harishkumar/Desktop/POC_ABC/POC_ABC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "CD3336F9-AEF2-4586-8816-A17FF4DF8023 - 28eef19f4f9baa67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (POC_ABC.City) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;POC_ABC.JSONDATE&lt;POC_ABC.City&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in POC_ABC.ViewController.(getCityList in _6E94093D24A24A7A140335E3E94FB119)() -&gt; ()"
+                  moduleName = "POC_ABC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harishkumar/Desktop/POC_ABC/POC_ABC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06E60FA0-7A3C-4C73-9F5B-F5F21DCA1935"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "getCityList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06E60FA0-7A3C-4C73-9F5B-F5F21DCA1935 - 3d772ba63e0e49a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "POC_ABC.ViewController.(getCityList in _6E94093D24A24A7A140335E3E94FB119)() -&gt; ()"
+                  moduleName = "POC_ABC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harishkumar/Desktop/POC_ABC/POC_ABC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "06E60FA0-7A3C-4C73-9F5B-F5F21DCA1935 - a5419a3681f50362"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;POC_ABC.JSONDATE&lt;POC_ABC.City&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in POC_ABC.ViewController.(getCityList in _6E94093D24A24A7A140335E3E94FB119)() -&gt; ()"
+                  moduleName = "POC_ABC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harishkumar/Desktop/POC_ABC/POC_ABC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C249E4D-B6A0-4608-B1F7-CE73DA9EACDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "getCityList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "184F8FDC-AB77-4028-B973-D118DEB754A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/Extensions/UIviewController+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "loadJson(filename:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56F645EE-622C-48F6-90A9-3B413AFFA07F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC_ABC/Extensions/UIviewController+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "loadJson(filename:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - SundeedQLite (1.1.6)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SundeedQLite
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SundeedQLite
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SundeedQLite: b93db98993eb62ddec006c503f84b0d9d76e82f2
+
+PODFILE CHECKSUM: 3e08b651645be08a0fd6355336ae846156404312
+
+COCOAPODS: 1.10.1
